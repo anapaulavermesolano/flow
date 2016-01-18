@@ -1,0 +1,18 @@
+.caja {
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.red {
+	background-color: #ED2251;
+}
+.blue {
+	background-color: #3A81BA;
+}
+.green {
+	background-color: #8BAB42;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}

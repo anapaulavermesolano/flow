@@ -1,0 +1,23 @@
+.caja {
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.red {
+	background-color: #ED2251;
+}
+.blue {
+	background-color: #3A81BA;
+	position: relative;
+	left: 200px;
+}
+.green {
+	background-color: #8BAB42;
+}
+.yellow {
+	background-color: yellow;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
